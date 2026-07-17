@@ -1,0 +1,24 @@
+BIH SFPMS COMPLETE APP PACKAGE
+
+LOCAL INSTALLATION
+1. Extract this ZIP file.
+2. Open the extracted folder.
+3. On Windows, double-click run_app.bat.
+4. Or run manually:
+   python -m pip install -r requirements.txt
+   python -m streamlit run app.py
+
+STREAMLIT COMMUNITY CLOUD
+1. Upload app.py, requirements.txt and README.md to a GitHub repository.
+2. Create a new app in Streamlit Community Cloud.
+3. Select the repository and branch.
+4. Set the Main file path to app.py.
+5. Deploy or reboot the app.
+
+SAMPLE DATA
+The sample_data folder contains the pilot workbook and import-ready CSV files.
+Use the Data Import Centre to upload CSV, XLSX or TXT files.
+
+IMPORTANT
+Research baseline data are actual research results.
+Scenario assumptions and simulated pilot data must not be reported as actual BIH Solutions outcomes.

@@ -1,0 +1,26 @@
+GITHUB UPLOAD CHECKLIST
+
+Upload all files and folders in this package to the root of your repository.
+
+Required at repository root:
+- app.py
+- requirements.txt
+- runtime.txt
+- README.md
+- .gitignore
+- LICENSE
+- DEPLOYMENT_GUIDE.txt
+- .streamlit/config.toml
+- sample_data/ folder
+
+Do not upload:
+- local SQLite database files
+- .venv or venv folders
+- __pycache__ folders
+- secrets.toml
+
+Recommended repository name:
+bih-sfpms
+
+Streamlit main file path:
+app.py

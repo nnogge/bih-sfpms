@@ -1,0 +1,11 @@
+﻿Activity ID,Phase,Activity,Responsible Role,Reviewer,Approver,Evidence Required,Gate,Planned Date,Actual Date,Status,Evidence Complete (%),Comments,Data Classification
+ACT-001,Initiate & Plan,Confirm strategic priorities,CEO/Managing Director,SFP Committee Member,CEO/Managing Director,Approved objectives,G1 Strategic Fit,2026-07-20,,Complete,100,,Simulated pilot data
+ACT-002,Initiate & Plan,Approve planning calendar,SFPMS Process Owner,SFP Committee Member,CEO/Managing Director,Planning calendar,G1 Strategic Fit,2026-07-21,,Complete,100,,Simulated pilot data
+ACT-003,Analyse & Develop Options,Validate financial data,Finance Manager,Internal Auditor/Reviewer,Finance Manager,Reconciliation report,G2 Information Valid,2026-07-25,,In Progress,80,Cash reconciliation pending,Simulated pilot data
+ACT-004,Analyse & Develop Options,Prepare three scenarios,Finance Manager,SFP Committee Member,SFP Committee Member,Scenario assumption register,G3 Financially Feasible,2026-07-29,,In Progress,70,,Simulated pilot data
+ACT-005,Analyse & Develop Options,Assess financial risks,Risk/Internal Control Officer,Internal Auditor/Reviewer,SFP Committee Member,Risk register,G4 Risk Acceptable,2026-07-31,,In Progress,60,Liquidity risk requires treatment,Simulated pilot data
+ACT-006,Plan & Approve,Consult stakeholders,SFPMS Process Owner,SFP Committee Member,SFP Committee Member,Consultation record,G5 Stakeholders & Resources Ready,2026-08-05,,Pending,40,,Simulated pilot data
+ACT-007,Plan & Approve,Confirm resource allocation,Department Manager,Finance Manager,SFP Committee Member,Resource plan,G5 Stakeholders & Resources Ready,2026-08-07,,Pending,35,,Simulated pilot data
+ACT-008,Plan & Approve,Approve strategic financial plan,SFP Committee Member,Internal Auditor/Reviewer,CEO/Managing Director,Final plan and decision memo,G6 Authorized,2026-08-12,,Not Started,0,,Simulated pilot data
+ACT-009,Execute & Monitor,Monitor budget and cash flow,Finance Manager,SFPMS Process Owner,CEO/Managing Director,Monthly dashboard,Operational Monitoring,2026-08-31,,Not Started,0,Recurring monthly,Simulated pilot data
+ACT-010,Review & Adapt,Evaluate pilot cycle,Researcher,Internal Auditor/Reviewer,CEO/Managing Director,Post-intervention analysis,Action Research Review,2026-12-15,,Not Started,0,,Simulated pilot data

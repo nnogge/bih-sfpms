@@ -1,0 +1,11 @@
+﻿Stakeholder ID,Stakeholder Group,Internal/External,Influence,Interest,Primary Expectation,Engagement Method,Frequency,Owner,Current Status,Issue Raised,Management Response,Satisfaction (1-5),Data Classification
+STK-001,CEO/Owner,Internal,High,High,Strategic visibility and financial control,Executive review,Monthly,SFPMS Process Owner,Engaged,,,4,Simulated pilot data
+STK-002,Finance Team,Internal,High,High,Reliable data and efficient workflow,Working session,Weekly,Finance Manager,Engaged,Data reconciliation workload,Prioritize critical accounts,3,Simulated pilot data
+STK-003,Department Managers,Internal,High,High,Realistic budgets and resource clarity,Planning workshop,Monthly,SFPMS Process Owner,Consultation Open,Competing priorities,Introduce prioritization criteria,3,Simulated pilot data
+STK-004,Employees,Internal,Medium,High,Clear expectations and workload,Town hall / survey,Quarterly,Department Manager,Pending,Change concern,Training and communication plan,3,Simulated pilot data
+STK-005,Key Customers,External,High,Medium,Reliable service and payment terms,Account review,Quarterly,CEO/Managing Director,Pending,,,4,Simulated pilot data
+STK-006,Suppliers,External,Medium,Medium,Predictable orders and payment,Supplier review,Quarterly,Finance Manager,Pending,Payment timing,Publish approved payment plan,3,Simulated pilot data
+STK-007,Business Partners,External,High,High,Accurate forecasts and timely decisions,Partner meeting,Quarterly,CEO/Managing Director,Engaged,,,4,Simulated pilot data
+STK-008,Lenders/Financiers,External,High,High,Debt service visibility and credible forecasts,Financial reporting,Quarterly,Finance Manager,Not Started,,,3,Simulated pilot data
+STK-009,Tax/Regulatory Authorities,External,High,Low,Timely and compliant reporting,Formal submission,As required,Finance Manager,Monitored,,,4,Simulated pilot data
+STK-010,DBA Research Participants,Internal,Medium,High,Confidentiality and useful intervention,Survey / feedback,Per cycle,Researcher,Engaged,,,4,Research participant group

@@ -1,0 +1,11 @@
+﻿Resource ID,Department,Resource Type,Resource Description,Available,Required—Optimistic,Required—Main,Required—Pessimistic,Allocated,Gap—Main,Unit Cost (XAF),Estimated Gap Cost (XAF),Owner,Data Classification
+RES-001,Finance,Human,Financial planning staff,5,6,7,8,5,2,250000,500000,Finance Manager,Simulated pilot data
+RES-002,Finance,Expertise,Forecasting and scenario expertise,1,1,2,3,1,1,300000,300000,Finance Manager,Simulated pilot data
+RES-003,Operations,Human,Service delivery capacity,12,12,14,16,12,2,180000,360000,Department Manager,Simulated pilot data
+RES-004,IT,Technology,User licences / hosted services,8,8,10,12,7,2,50000,100000,System Administrator,Simulated pilot data
+RES-005,IT,Equipment,Reliable workstations,6,6,8,10,6,2,350000,700000,System Administrator,Simulated pilot data
+RES-006,Corporate,Financial,Available implementation funding,5000000,4500000,6200000,7500000,4800000,1200000,1,1200000,CEO/Managing Director,Simulated pilot data
+RES-007,Corporate,Time,Management review hours per month,16,12,18,24,14,2,25000,50000,SFPMS Process Owner,Simulated pilot data
+RES-008,All Departments,Training,SFPMS training places,8,8,12,15,8,4,75000,300000,SFPMS Process Owner,Simulated pilot data
+RES-009,Risk/Internal Control,Human,Risk and control support,1,1,2,2,1,1,250000,250000,Risk/Internal Control Officer,Simulated pilot data
+RES-010,Stakeholder Management,Time,Consultation hours per month,8,8,12,16,6,4,20000,80000,SFPMS Process Owner,Simulated pilot data

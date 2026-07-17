@@ -1,0 +1,49 @@
+﻿budget_id,department,category,month,approved_budget,actual,committed,remaining,variance,variance_pct,budget_owner,status,scenario,data_classification
+BUD-FIN-01,Finance,Administration,2026-01-01,84000,79800,2520,1680,-4200,-0.05,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-FIN-02,Finance,Administration,2026-02-01,84000,85680,2520,-4200,1680,0.02,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-FIN-03,Finance,Administration,2026-03-01,96000,94080,2880,-960,-1920,-0.02,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-FIN-04,Finance,Administration,2026-04-01,96000,99840,2880,-6720,3840,0.04,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-FIN-05,Finance,Administration,2026-05-01,96000,93120,2880,0,-2880,-0.03,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-FIN-06,Finance,Administration,2026-06-01,96000,96960,2880,-3840,960,0.01,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-FIN-07,Finance,Administration,2026-07-01,108000,114480,3240,-9720,6480,0.06,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-FIN-08,Finance,Administration,2026-08-01,108000,106920,3240,-2160,-1080,-0.01,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-FIN-09,Finance,Administration,2026-09-01,108000,111240,6480,-9720,3240,0.03,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-FIN-10,Finance,Administration,2026-10-01,108000,103680,6480,-2160,-4320,-0.04,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-FIN-11,Finance,Administration,2026-11-01,108000,108000,6480,-6480,0,0.0,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-FIN-12,Finance,Administration,2026-12-01,108000,110160,6480,-8640,2160,0.02,Finance Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-01,Operations,Service Delivery,2026-01-01,126000,119700,3780,2520,-6300,-0.05,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-02,Operations,Service Delivery,2026-02-01,126000,128520,3780,-6300,2520,0.02,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-03,Operations,Service Delivery,2026-03-01,144000,141120,4320,-1440,-2880,-0.02,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-04,Operations,Service Delivery,2026-04-01,144000,149760,4320,-10080,5760,0.04,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-05,Operations,Service Delivery,2026-05-01,144000,139680,4320,0,-4320,-0.03,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-06,Operations,Service Delivery,2026-06-01,144000,145440,4320,-5760,1440,0.01,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-07,Operations,Service Delivery,2026-07-01,162000,171720,4860,-14580,9720,0.06,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-08,Operations,Service Delivery,2026-08-01,162000,160380,4860,-3240,-1620,-0.01,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-09,Operations,Service Delivery,2026-09-01,162000,166860,9720,-14580,4860,0.03,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-10,Operations,Service Delivery,2026-10-01,162000,155520,9720,-3240,-6480,-0.04,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-11,Operations,Service Delivery,2026-11-01,162000,162000,9720,-9720,0,0.0,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-OPE-12,Operations,Service Delivery,2026-12-01,162000,165240,9720,-12960,3240,0.02,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-01,IT,Technology,2026-01-01,105000,99750,3150,2100,-5250,-0.05,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-02,IT,Technology,2026-02-01,105000,107100,3150,-5250,2100,0.02,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-03,IT,Technology,2026-03-01,120000,117600,3600,-1200,-2400,-0.02,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-04,IT,Technology,2026-04-01,120000,124800,3600,-8400,4800,0.04,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-05,IT,Technology,2026-05-01,120000,116400,3600,0,-3600,-0.03,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-06,IT,Technology,2026-06-01,120000,121200,3600,-4800,1200,0.01,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-07,IT,Technology,2026-07-01,135000,143100,4050,-12150,8100,0.06,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-08,IT,Technology,2026-08-01,135000,133650,4050,-2700,-1350,-0.01,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-09,IT,Technology,2026-09-01,135000,139050,8100,-12150,4050,0.03,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-10,IT,Technology,2026-10-01,135000,129600,8100,-2700,-5400,-0.04,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-11,IT,Technology,2026-11-01,135000,135000,8100,-8100,0,0.0,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-IT-12,IT,Technology,2026-12-01,135000,137700,8100,-10800,2700,0.02,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-01,Marketing,Business Development,2026-01-01,56000,53200,1680,1120,-2800,-0.05,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-02,Marketing,Business Development,2026-02-01,56000,57120,1680,-2800,1120,0.02,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-03,Marketing,Business Development,2026-03-01,64000,62720,1920,-640,-1280,-0.02,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-04,Marketing,Business Development,2026-04-01,64000,66560,1920,-4480,2560,0.04,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-05,Marketing,Business Development,2026-05-01,64000,62080,1920,0,-1920,-0.03,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-06,Marketing,Business Development,2026-06-01,64000,64640,1920,-2560,640,0.01,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-07,Marketing,Business Development,2026-07-01,72000,76320,2160,-6480,4320,0.06,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-08,Marketing,Business Development,2026-08-01,72000,71280,2160,-1440,-720,-0.01,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-09,Marketing,Business Development,2026-09-01,72000,74160,4320,-6480,2160,0.03,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-10,Marketing,Business Development,2026-10-01,72000,69120,4320,-1440,-2880,-0.04,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-11,Marketing,Business Development,2026-11-01,72000,72000,4320,-4320,0,0.0,Department Manager,Open,Main Scenario,Simulated pilot data
+BUD-MAR-12,Marketing,Business Development,2026-12-01,72000,73440,4320,-5760,1440,0.02,Department Manager,Open,Main Scenario,Simulated pilot data

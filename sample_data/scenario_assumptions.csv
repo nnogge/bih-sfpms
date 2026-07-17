@@ -1,0 +1,10 @@
+﻿assumption,unit,optimistic,main,pessimistic,rationale,owner,approval_status,data_classification,source
+Revenue,XAF,4800000,4200000,3400000,Growth and conversion assumptions,Finance Manager,Pending Approval,Scenario assumption,Pilot design based on 2024 revenue
+Operating Cost,XAF,2450000,2600000,2850000,Cost control and inflation range,Finance Manager,Pending Approval,Scenario assumption,Pilot design
+Net Cash Flow,XAF,1100000,650000,-250000,Expected inflow/outflow timing,Finance Manager,Pending Approval,Scenario assumption,Pilot design
+Financing Need,XAF,0,300000,1200000,Liquidity gap under each case,CEO/Managing Director,Pending Approval,Scenario assumption,Pilot design
+Closing Cash,XAF,1700000,1200000,500000,Cash reserve outcome,Finance Manager,Pending Approval,Scenario assumption,Pilot design
+Risk Exposure Index,Index 1-25,7,11,17,Aggregate scenario risk indicator,Risk/Internal Control Officer,Pending Approval,Scenario assumption,Pilot design
+Forecast Accuracy,Percent,0.86,0.78,0.64,Expected planning reliability,Finance Manager,Pending Approval,Scenario assumption,Pilot design
+Budget Variance,Percent,-0.021,-0.0642,0.0875,Expected actual-to-budget variance,Finance Manager,Pending Approval,Scenario assumption,Pilot design
+Resource Requirement Multiplier,Multiplier,0.95,1.0,1.15,Resource pressure adjustment,SFPMS Process Owner,Pending Approval,Scenario assumption,Pilot design
